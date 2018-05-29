@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imsx_POXEnvelopeResponse xmlns="http://www.imsglobal.org/services/ltiv1p1/xsd/imsoms_v1p0">
+  <imsx_POXHeader>
+    <imsx_POXResponseHeaderInfo>
+      <imsx_version>V1.0</imsx_version>
+      <imsx_messageIdentifier>5b0d94a6ecec6</imsx_messageIdentifier>
+      <imsx_statusInfo>
+        <imsx_codeMajor>success</imsx_codeMajor>
+        <imsx_severity>status</imsx_severity>
+        <imsx_description>Score for bff3492990a60affaf7e8b9c5998ad8e:::S3294476:::29123:::dyJ86SiwwA9 is now 0.17</imsx_description>
+        <imsx_messageRefIdentifier>5b0d94a6aad00</imsx_messageRefIdentifier>
+      </imsx_statusInfo>
+    </imsx_POXResponseHeaderInfo>
+  </imsx_POXHeader>
+  <imsx_POXBody>
+      <replaceResultResponse />
+  </imsx_POXBody>
+</imsx_POXEnvelopeResponse>

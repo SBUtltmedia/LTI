@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>  
+		<imsx_POXEnvelopeRequest xmlns = 'http://www.imsglobal.org/services/ltiv1p1/xsd/imsoms_v1p0'>
+			<imsx_POXHeader>         
+				<imsx_POXRequestHeaderInfo>            
+					<imsx_version>V1.0</imsx_version>  
+					<imsx_messageIdentifier>5b0d94a6aad00</imsx_messageIdentifier>         
+				</imsx_POXRequestHeaderInfo>      
+			</imsx_POXHeader>      
+			<imsx_POXBody>         
+				<replaceResultRequest>            
+					<resultRecord>
+						<sourcedGUID>
+							<sourcedId>bff3492990a60affaf7e8b9c5998ad8e:::S3294476:::29123:::dyJ86SiwwA9</sourcedId>
+						</sourcedGUID>
+						<result>
+							<resultScore>
+								<language>en-us</language>
+								<textString>0.17</textString>
+							</resultScore>
+						</result>
+					</resultRecord>       
+				</replaceResultRequest>      
+			</imsx_POXBody>   
+		</imsx_POXEnvelopeRequest>
