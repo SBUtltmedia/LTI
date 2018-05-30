@@ -1,1 +1,1 @@
-http://ltiapps.net/test/tc-outcomes.php
+https://blackboard.stonybrook.edu/webapps/gradebook/lti11grade

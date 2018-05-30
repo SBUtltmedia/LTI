@@ -3,19 +3,19 @@
 			<imsx_POXHeader>         
 				<imsx_POXRequestHeaderInfo>            
 					<imsx_version>V1.0</imsx_version>  
-					<imsx_messageIdentifier>5b0d94a6aad00</imsx_messageIdentifier>         
+					<imsx_messageIdentifier>5b0db597ef2f1</imsx_messageIdentifier>         
 				</imsx_POXRequestHeaderInfo>      
 			</imsx_POXHeader>      
 			<imsx_POXBody>         
 				<replaceResultRequest>            
 					<resultRecord>
 						<sourcedGUID>
-							<sourcedId>bff3492990a60affaf7e8b9c5998ad8e:::S3294476:::29123:::dyJ86SiwwA9</sourcedId>
+							<sourcedId>bbgc11093631gi1837215</sourcedId>
 						</sourcedGUID>
 						<result>
 							<resultScore>
 								<language>en-us</language>
-								<textString>0.17</textString>
+								<textString>0.63</textString>
 							</resultScore>
 						</result>
 					</resultRecord>       
